@@ -5,6 +5,8 @@ Está en uso real en ALARMEC, una empresa de seguridad electrónica en Quito (al
 
 > Copia pública del proyecto para portafolio: los datos de clientes son ficticios y la app en producción usa un repositorio privado.
 
+![Paso 1: captura por texto o nota de voz](docs/paso1-captura.png)
+
 ## El problema
 
 Las cotizaciones se hacían a mano en Excel después de cada visita técnica: lento, con errores de cálculo y sin numeración ni historial.
