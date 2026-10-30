@@ -1,0 +1,10 @@
+streamlit>=1.50
+google-genai>=1.0
+groq>=0.11           # opcional: si hay GROQ_API_KEY se usa Groq (Whisper + Llama)
+pydantic>=2.7
+jinja2>=3.1
+pandas>=2.0
+python-dotenv>=1.0
+pytest>=8.0
+reportlab>=4.0
+pymupdf>=1.24      # vista previa del PDF en pantalla

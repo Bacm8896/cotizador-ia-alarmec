@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+# Excel modelo con datos reales de un cliente
+*.xls
+*.xlsx
+data/
